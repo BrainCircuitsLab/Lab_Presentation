@@ -1,4 +1,3 @@
-# lab_presentation
-### Weekly lab presentation list
+# Lab_Presentation_List
 |Date | Presenter | Topic |
 | :---: | :---: | :---: | 
