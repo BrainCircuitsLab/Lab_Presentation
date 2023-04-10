@@ -1,15 +1,17 @@
 ## BCL Weekly Presentation List
+
+### 2023
+|Date | Presenter | Topic |
+| :---: | :---: | :---: | 
+| April-07| Bangjie | Language and Emotion|
+
 ### 2022
 |Date | Presenter | Topic |
 | :---: | :---: | :---: | 
-| 14-Sep| Leah | EEG preliminary results|
-| 23-Sep| Ethan | Functional Connectivity Dynamics|
-| 30-Sep| Annette| The Neural Mechanisms of Curse Words Processing in Naturalistic Context|
-| 07-Oct| Yile| Brain Lateralization in Alzheimer’s Disease: An Introduction|
-| 14-Oct| Leah| First Year Project Defense Preparation|
-| 21-Oct| Yile| First Year Project Defense Preparation|
-| 28-Oct| 
-| 04-Nov|
-| 11-Nov| Lucia|
-| 01-Dec| Annette| Proposal Defense Preparation|
-| 09-Dec| Nicole|
+| Sep-14| Leah | EEG preliminary results|
+| Sep-23| Ethan | Functional Connectivity Dynamics|
+| Sep-30| Annette| The Neural Mechanisms of Curse Words Processing in Naturalistic Context|
+| Oct-07| Yile| Brain Lateralization in Alzheimer’s Disease: An Introduction|
+| Oct-14| Leah| First Year Project Defense Preparation|
+| Oct-21| Yile| First Year Project Defense Preparation|
+| Dec-01| Annette| Proposal Defense Preparation|
