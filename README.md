@@ -1,4 +1,4 @@
-## BCL Weekly Presentation List
+## BCL Presentation List
 
 ### 2023
 |Date | Presenter | Topic |
